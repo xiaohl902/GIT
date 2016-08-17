@@ -9,4 +9,23 @@ public class cc {
     int a = 0;
     int c = 3;
 
+
+
+public class cc extends TextView{
+
+
+    public cc(Context context) {
+        super(context);
+    }
+
+    public cc(Context context, AttributeSet attrs) {
+        super(context, attrs);
+    }
+
+    public cc(Context context, AttributeSet attrs, int defStyleAttr) {
+        super(context, attrs, defStyleAttr);
+    }
+
+
+
 }
