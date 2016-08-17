@@ -11,8 +11,9 @@ import android.widget.TextView;
 
 
 
-public class cc extends TextView {
 
+public class cc extends TextView {
+    int a = 0 ;
     int c = 10 ;
 
     public cc(Context context, AttributeSet attrs) {
@@ -22,7 +23,7 @@ public class cc extends TextView {
     public cc(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
     }
-
+//
 
 ///
 }
