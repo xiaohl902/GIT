@@ -8,9 +8,13 @@ import android.widget.TextView;
  * Created by Administrator on 2016/8/17 0017. on 16:08
  * xiaohl_902
  */
-public class cc extends TextView{
 
     int a = 0 ;
+
+
+public class cc extends TextView {
+
+    int c = 10 ;
 
     public cc(Context context) {
         super(context);
