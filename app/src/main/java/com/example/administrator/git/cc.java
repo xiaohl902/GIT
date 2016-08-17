@@ -5,4 +5,7 @@ package com.example.administrator.git;
  * xiaohl_902
  */
 public class cc {
+
+    int a = 0;
+    int c = 3;
 }
