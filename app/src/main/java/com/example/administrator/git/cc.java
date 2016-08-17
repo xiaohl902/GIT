@@ -1,17 +1,17 @@
 package com.example.administrator.git;
 
+import android.content.Context;
+import android.util.AttributeSet;
+import android.widget.TextView;
+
 /**
  * Created by Administrator on 2016/8/17 0017. on 16:08
  * xiaohl_902
  */
-public class cc {
-
-    int a = 0;
-    int c = 3;
 
 
 
-public class cc extends TextView{
+public class cc extends TextView {
 
 
     public cc(Context context) {
