@@ -12,6 +12,7 @@ import android.widget.TextView;
 
 
 public class cc extends TextView {
+
     int c = 10 ;
 
     public cc(Context context) {
