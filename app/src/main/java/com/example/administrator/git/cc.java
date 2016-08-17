@@ -15,10 +15,6 @@ public class cc extends TextView {
 
     int c = 10 ;
 
-    public cc(Context context) {
-        super(context);
-    }
-
     public cc(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
