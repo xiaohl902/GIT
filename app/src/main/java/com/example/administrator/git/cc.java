@@ -9,11 +9,11 @@ import android.widget.TextView;
  * xiaohl_902
  */
 
-    int a = 0 ;
+
 
 
 public class cc extends TextView {
-
+    int a = 0 ;
     int c = 10 ;
 
     public cc(Context context) {
