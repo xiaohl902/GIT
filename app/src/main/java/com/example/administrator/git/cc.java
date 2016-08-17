@@ -27,7 +27,7 @@ public class cc extends TextView {
     public cc(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
     }
-
+//
 
 
 }
